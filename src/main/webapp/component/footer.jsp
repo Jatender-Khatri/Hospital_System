@@ -28,13 +28,12 @@
 
 		<div class="box">
 			<h3>contact info</h3>
-			<a href="#"> <i class="fas fa-phone"></i> +123-456-7890
-			</a> <a href="#"> <i class="fas fa-phone"></i> +111-222-3333
-			</a> <a href="#"> <i class="fas fa-envelope"></i>
-				shaikhanas@gmail.com
-			</a> <a href="#"> <i class="fas fa-envelope"></i> anasbhai@gmail.com
-			</a> <a href="#"> <i class="fas fa-map-marker-alt"></i> mumbai, india
-				- 400104
+			<a href="#"> <i class="fas fa-phone"></i> +92 3351035477
+			</a> <a href="#"> <i class="fas fa-phone"></i> +92 3480305060
+			</a> <a href="#"> <i class="fas fa-envelope"></i> jk786@gmail.com
+			</a> <a href="#"> <i class="fas fa-envelope"></i> kj0@gmail.com
+			</a> <a href="#"> <i class="fas fa-map-marker-alt"></i> karachi,
+				pakistan - 74000
 			</a>
 		</div>
 
@@ -52,7 +51,7 @@
 	</div>
 
 	<div class="credit">
-		created by <span>mr. web designer</span> | all rights reserved
+		created by <span>mr. Jatender Khatri</span> | all rights reserved
 	</div>
 
 </section>
